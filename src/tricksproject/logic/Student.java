@@ -2,7 +2,7 @@ package tricksproject.logic;
 
 
 import java.util.ArrayList;
-
+//test
 public class Student {
   private String name;
   private int number;
